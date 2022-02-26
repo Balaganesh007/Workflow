@@ -15,7 +15,7 @@ import androidx.navigation.fragment.findNavController
 class BlankFragment : Fragment() {
 
 
-    private  val isEnabled = false
+    private  val isEnabled = true
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
